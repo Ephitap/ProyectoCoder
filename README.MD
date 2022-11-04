@@ -1,1 +1,1 @@
-Poco avanze :/
+hubieron algunos problemas con git :/
